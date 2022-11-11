@@ -43,7 +43,7 @@ Valores calculados
 
 ![image](https://user-images.githubusercontent.com/116781843/201399092-286b6fb5-5655-488d-9d8f-6b96b1cb73ac.png)
 
-![image](https://user-images.githubusercontent.com/116781843/201396490-cb97f9cb-9616-48b3-83c5-8f82a08ad9ba.png)
+![image](https://user-images.githubusercontent.com/116781843/201399270-0ebc5792-7a8a-49d0-9930-a4d3726a5482.png)
 
 ![image](https://user-images.githubusercontent.com/116781843/201396503-50782e82-9abc-450c-81be-782be1a51d49.png)
 
