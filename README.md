@@ -31,7 +31,7 @@ Material y equipo requerido
 
 •	Armar el siguiente circuito en tinkercad
 
-![image](https://user-images.githubusercontent.com/116781843/201396378-1b0d6572-a5f9-4417-86ef-8e76cb246421.png)
+![image](https://user-images.githubusercontent.com/116781843/201398701-b2ea1b6d-a76c-40d1-96a1-2afe1122f345.png)
 
 Circuito armado en Tinkercad
 
