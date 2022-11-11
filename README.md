@@ -41,7 +41,7 @@ Circuito armado en Tinkercad
 
 Valores calculados
 
-![image](https://user-images.githubusercontent.com/116781843/201396469-2fafa33e-6f02-4b55-a102-4e0ae6e5b90b.png)
+![image](https://user-images.githubusercontent.com/116781843/201399092-286b6fb5-5655-488d-9d8f-6b96b1cb73ac.png)
 
 ![image](https://user-images.githubusercontent.com/116781843/201396490-cb97f9cb-9616-48b3-83c5-8f82a08ad9ba.png)
 
