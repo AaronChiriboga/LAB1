@@ -95,12 +95,14 @@ Link: https://youtu.be/hDOM-u7lhlA
 
 6.	Conclusiones 
 
-La simulación de tinkercad es una herramienta muy fundamental, ayuda mucho al momento de comprobar datos y asumes también sirve para recrear un circuito como en la vida real
-Aprendimos y pusimos en practica las  leyes más importantes de la electrónica, de esa manera saber analizar de forma indicada un circuito
+La simulación de tinkercad es una herramienta muy fundamental, ayuda mucho al momento de comprobar datos y asumes también sirve para recrear un circuito como en la vida real.
+
+Aprendimos y pusimos en practica las  leyes más importantes de la electrónica, de esa manera saber analizar de forma indicada un circuito.
 
 7.	Bibliografía
  
 ¿Qué es la ley de Ohm? (2016, 31 octubre). Fluke. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-ley-de-ohm
+
 Veloso, C. (2020, 20 julio). LEYES DE KIRCHHOFF. Tutoriales de Electrónica | Matemática y Física. https://www.electrontools.com/Home/WP/ley-de-kirchhoff/
 
 
